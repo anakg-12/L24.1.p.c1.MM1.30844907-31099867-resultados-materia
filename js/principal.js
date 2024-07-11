@@ -14,7 +14,7 @@ let estudiante2 = new CL_estudiante (777, 50);
 let estudiante3 = new CL_estudiante (999, 40);
 let estudiante4 = new CL_estudiante (333, 80);
 let estudiante5 = new CL_estudiante (111, 30);
-let estudiante6 = new CL_estudiante (333, 90);
+let estudiante6 = new CL_estudiante (666, 90);
 let estudiante7 = new CL_estudiante (444, 48);
 let estudiante8 = new CL_estudiante (222, 60);
 
